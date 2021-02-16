@@ -1,4 +1,7 @@
-# RAW-COLL INPUT ( " RAW COLL )
+# RAW COLL
+survivor
 
-# LET 6+6 THEN ALLOW
-FOR 6+6 PRINT ( "HI" )
+hi human being
+
+iam sadiq musa survivor iam here to help you 
+and to guid you on this plate form
